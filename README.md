@@ -15,3 +15,4 @@ This repository contains my academic projects and learning logs at **Zhangjiakou
 
 ## 📬 Status
 - Current Status: **Enrolled** (Verified by CHSI: AWZLQ9AK732QKUPU)
+Last updated: March 16, 2026. Continuing my Java study.
